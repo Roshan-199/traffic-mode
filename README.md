@@ -1,6 +1,3 @@
-# README.md
-
-## Title
 Feature Selection and Explainable XGBoost for Travel Mode Choice Prediction
 
 ## Research Overview
