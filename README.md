@@ -1,4 +1,4 @@
-Feature Selection and Explainable XGBoost for Travel Mode Choice Prediction
+# Feature Selection and Explainable XGBoost for Travel Mode Choice Prediction
 
 ## Research Overview
 This repository documents a PhD-level experimental workflow for travel mode choice prediction using a combination of Random Forest feature selection, plain XGBoost training, and model explainability with SHAP. The notebook follows a structured research methodology:
